@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bouvet Task", "Bouvet Task\Bouvet Task.csproj", "{D18A1F38-776D-4A70-B770-C255C07014AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18A1F38-776D-4A70-B770-C255C07014AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18A1F38-776D-4A70-B770-C255C07014AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18A1F38-776D-4A70-B770-C255C07014AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18A1F38-776D-4A70-B770-C255C07014AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F4E026-240A-448E-B53E-68A98BFED598}
+	EndGlobalSection
+EndGlobal

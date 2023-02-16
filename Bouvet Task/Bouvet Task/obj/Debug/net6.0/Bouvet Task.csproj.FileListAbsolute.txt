@@ -1,0 +1,43 @@
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\appsettings.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Bouvet Task.exe
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Bouvet Task.deps.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Bouvet Task.runtimeconfig.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Bouvet Task.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Bouvet Task.pdb
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.AssemblyInfo.cs
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets\msbuild.Bouvet Task.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets\msbuild.build.Bouvet Task.props
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bouvet Task.props
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bouvet Task.props
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\scopedcss\bundle\Bouvet Task.styles.css
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.csproj.CopyComplete
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\refint\Bouvet Task.dll
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.pdb
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\Bouvet Task.genruntimeconfig.cache
+C:\Users\darsh\source\repos\Bouvet Task\Bouvet Task\obj\Debug\net6.0\ref\Bouvet Task.dll
